@@ -40,4 +40,9 @@ for i in resultados:
 
 
 
+<<<<<<< HEAD
 >>>>>>> 94b5bc6 (add lista descricoes)
+=======
+
+
+>>>>>>> 3790044 (add lista descricoes)
