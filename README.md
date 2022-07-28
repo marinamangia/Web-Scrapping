@@ -1,2 +1,2 @@
 # Web-Scrapping
-Job opportunities automation
+Automation of Linkedin job opportunities aplication through Selenium
